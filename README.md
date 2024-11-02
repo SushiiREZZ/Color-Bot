@@ -6,6 +6,7 @@
 # Usage
 1. Download the latest version, you can find it at Reales(es).
 2. Run the exe file and click the `Enable` button to enable the triggerbot.
+3. Passwort on my Discord: @sushiirez
 
 <details>
   <summary><h3>Valorant Settings:</h3></summary>
