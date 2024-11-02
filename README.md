@@ -54,5 +54,5 @@ If you need help, you can message me on [@sushiirez](@sushiirez).
 <hr />
 
 <div align = "center">
-  <video src = "https://www.youtube.com/watch?v=BQXi3iFX0Ig" />
+  <video src = "https://cdn.discordapp.com/attachments/1302347606227161225/1302402619070873640/videoplayback.mp4?ex=6727fc75&is=6726aaf5&hm=cf2b7dcbe1abdfdc951738a7b3918660caee965f3e66bce0dcdb1e4ad7ac5439&" />
 </div>
