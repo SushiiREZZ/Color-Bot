@@ -16,7 +16,7 @@
   - `General > Accessibility > Enemy Highlight Color:` Select `Purple`.
   - `General > Mouse > Raw Input Buffer:` Set to `Off`.
   - `Video > Display Mode:` Select `Windows Fullscreen`.
-  - - `Crosshair > Import profile code` insert `0;s;1;P;c;7;h;0;m;1;0l;2;0o;2;0a;1;0f;0;1b;0;S;s;0.558;o;1` `(my favorite)`
+  - `Crosshair > Import profile code` insert `0;s;1;P;c;7;h;0;m;1;0l;2;0o;2;0a;1;0f;0;1b;0;S;s;0.558;o;1` `(my favorite)`
 </details>
 
 <details>
