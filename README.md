@@ -6,7 +6,7 @@
 # Usage
 1. Download the latest version, you can find it at Reales(es).
 2. Run the exe file and click the `Enable` button to enable the triggerbot.
-3. to open the program you need [WinRAR](https://www.win-rar.com/start.html?&L=1)
+3. To open the program you need [WinRAR](https://www.win-rar.com/start.html?&L=1)
 4. Passwort on my Discord: @sushiirez
 
 <details>
